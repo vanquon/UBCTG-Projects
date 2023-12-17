@@ -6,6 +6,9 @@ Patent factor to be fed into factor model. Calculated with (# patents / market c
 
 # Data
 - patent_factor.csv: output of code. Tickers and corresponding patent intensity factor that can be fed into the model, see image below
+![Screen Shot 2023-12-17 at 1 49 51 PM](https://github.com/vanquon/Patent-Factor/assets/77385101/289a2ddc-360d-4f3b-aa3a-7804c0aaf552)
+
+  
 - KPSS.dta: patent data. download from https://github.com/KPSS2017/Measuring-Technological-Innovation-Over-the-Long-Run-Replication-Kit/tree/master/input_data
 - market_cap.csv: market cap of each stock, may want to update periodically
 - patent_sector.csv: maps patent to ticker to sector
